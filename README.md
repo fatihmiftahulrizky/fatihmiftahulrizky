@@ -65,5 +65,25 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </p>
   </br>
+
+  ## <h3> 🎮 Games </h3>
+<div display = "flex">
+  <br>
+  <p align=center>
+  <a href="https://steamcommunity.com/profiles/76561198962828088/" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
+  <a href="https://store.epicgames.com/u/a2e41f301b1c41f58bc8708e146f9040" target=_blank">
+  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+  </p>
+</br>
+</div>
+
+## <div align="center">
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnYwZnN3NWNjemxjaXRlNGxlM3ZsOHRucHVpNHF1d3YyMGZhaDJnZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RneIcLEosVuta/giphy.gif">
+</div>
+</div> 
+
   <img src= "https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg">
 
