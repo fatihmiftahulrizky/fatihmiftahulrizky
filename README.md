@@ -5,7 +5,7 @@
 
 - :school: I am a `Student` at [Faculty of Engineering](https://teknik.univpancasila.ac.id/) at [Pancasila
   University](https://univpancasila.ac.id/).
-- :student: I’m currently learn `Website Design` and `Software Engineering`.
+- :student: I’m currently learn `Software Engineering`.
 - :nerd_face: Always `learn something new`.
 <br>
 
